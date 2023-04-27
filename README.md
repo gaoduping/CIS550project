@@ -24,3 +24,10 @@ The IMDB contains large amounts of information about movies, TV series, podcasts
 (2) name.basics.tsv contains names of 12324725 actors and actresses and their demographic information. 
 
 (3) title.principals.tsv.gz links movies with the actors/actresses acted in it. There are 54780787 linkages and 6 attributes, including one for the movie id and one for the actor/actress id.
+
+## File introduction
+### EDA
+EDA is done via Colab, which can be run using Colab directly.
+
+### Webstorm
+Can be opened with webstorm and be run locally.
